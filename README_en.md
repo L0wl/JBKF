@@ -17,7 +17,6 @@ A simple and lightweight browser extension that allows you to generate JetBrains
 
 # Installation
 
-#### 1st step
 - [x] Download ['agent'](https://github.com/L0wl/archive/refs/heads/agent.zip) branch
 - [x] Copy `jetbra` to root of the disk
 - [x] Open `jetbra/scripts` folder, and install script what fits to your system
@@ -31,13 +30,16 @@ A simple and lightweight browser extension that allows you to generate JetBrains
 | `install.sh`|Install javaagent service for user from execution environment|Linux/Mac|
 | `uninstall.sh`| Uninstall javaagent service for user from execution environment|Linux/Mac|
 
-#### 2nd step
+> [!NOTE]
+> At this stage, you will already have the IDE activation keys working.
+
+### Plugins activation module
 
 - [x] Download and install [tampermonkey](https://www.tampermonkey.net/)
 - [x] [Install script](https://raw.githubusercontent.com/L0wl/JBKF/resources/script/jetbra.user.js)
 
 > [!IMPORTANT]
-> Tampermonkey reqired
+> Tampermonkey must be installed
 
 # Activation
 

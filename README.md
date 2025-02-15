@@ -33,7 +33,7 @@
 > [!NOTE]
 > На этом этапе у вас уже будут работать ключи активации IDE
 
-### Генератор активации плагинов
+### Модуль активации плагинов
 
 - [x] Скачайте и установите [tampermonkey](https://www.tampermonkey.net/)
 - [x] [Установите скрипт](https://raw.githubusercontent.com/L0wl/JBKF/resources/script/jetbra.user.js)
