@@ -22,8 +22,8 @@
 | `install-current-user.vbs` | Установка javaagent для текущего пользователя | Windows |
 | `uninstall-all-users.vbs` | Удаление javaagent для всех пользователей | Windows |
 | `uninstall-current-user.vbs` | Удаление javaagent для текущего пользователя | Windows |
-| `install.sh` | Установка службы javaagent для пользователя из среды выполнения | Linux/Mac |
-| `uninstall.sh` | Удаление службы javaagent для пользователя из среды выполнения | Linux/Mac |
+| `install.sh` | Установка службы javaagent для пользователя среды выполнения | Linux/Mac |
+| `uninstall.sh` | Удаление службы javaagent для пользователя среды выполнения | Linux/Mac |
 
 > [!NOTE]
 > На этом этапе у вас уже будут работать ключи активации IDE
