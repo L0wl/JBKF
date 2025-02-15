@@ -17,11 +17,9 @@
 
 # Установка
 
-- [x] Скачайте ветку [`agent`](https://github.com/L0wl/JBKF/archive/refs/heads/agent.zip)
-
-- [x] Скопируйте папку `jetbra` в корневой каталог диска
-
-- [x] Откройте папку `jetbra/scripts` и запустите скрипт установки, подходящий для вашей системы
+<input type="checkbox"> Скачайте ветку [`agent`](https://github.com/L0wl/JBKF/archive/refs/heads/agent.zip)\
+<input type="checkbox"> Скопируйте папку `jetbra` в корневой каталог диска\
+<input type="checkbox"> Откройте папку `jetbra/scripts` и запустите скрипт установки, подходящий для вашей системы
 
 | Имя файла | Описание | Платформа |
 | --------- | ----------- | -------- |
@@ -37,9 +35,8 @@
 
 ### Генератор активации плагинов
 
-- [x] Скачайте и установите [tampermonkey](https://www.tampermonkey.net/)
-
-- [x] [Установите скрипт](https://raw.githubusercontent.com/L0wl/JBKF/resources/script/jetbra.user.js)
+<input type="checkbox"> Скачайте и установите [tampermonkey](https://www.tampermonkey.net/)\
+<input type="checkbox"> [Установите скрипт](https://raw.githubusercontent.com/L0wl/JBKF/resources/script/jetbra.user.js)
 
 > [!IMPORTANT]
 > Tampermonkey должен быть установлен

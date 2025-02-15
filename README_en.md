@@ -18,11 +18,9 @@ A simple and lightweight browser extension that allows you to generate JetBrains
 # Installation
 
 #### 1st step
-- [x] Download ['agent'](https://github.com/L0wl/archive/refs/heads/agent.zip) branch
-
-- [x] Copy `jetbra` to root of the disk
-
-- [x] Open `jetbra/scripts` folder, and install script what fits to your system
+<input type="checkbox"> Download ['agent'](https://github.com/L0wl/archive/refs/heads/agent.zip) branch\
+<input type="checkbox"> Copy `jetbra` to root of the disk\
+<input type="checkbox"> Open `jetbra/scripts` folder, and install script what fits to your system
 
 | File name | Description | Platform |
 | --------- | ----------- | -------- |
@@ -35,9 +33,8 @@ A simple and lightweight browser extension that allows you to generate JetBrains
 
 #### 2nd step
 
-- [x] Download and install [tampermonkey](https://www.tampermonkey.net/)
-
-- [x] [Install script](https://raw.githubusercontent.com/L0wl/JBKF/resources/script/jetbra.user.js)
+<input type="checkbox"> Download and install [tampermonkey](https://www.tampermonkey.net/)\
+<input type="checkbox"> [Install script](https://raw.githubusercontent.com/L0wl/JBKF/resources/script/jetbra.user.js)
 
 > [!IMPORTANT]
 > Tampermonkey reqired
