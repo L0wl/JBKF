@@ -1,7 +1,9 @@
-<div class="language" style="text-align:center; display: flex; gap: 10px; justify-content: center;">
-<p>Русский</p>
+<p align="center">
+Русский
+&nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="">English</a>
-</div>
+&nbsp;&nbsp;
+</p>
 
 # JetBrains Key Factory
 
