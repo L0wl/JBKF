@@ -1,9 +1,4 @@
-<p align="center">
-English
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/L0wl/JBKF">Русский</a>
-&nbsp;&nbsp;
-</p>
+<p align="center">English&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/L0wl/JBKF">Русский</a></p>
 
 # JetBrains Key Factory
 
