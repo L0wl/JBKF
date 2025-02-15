@@ -1,7 +1,7 @@
 <p align="center">
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="">Русский</a>
+<a href="https://github.com/L0wl/JBKF">Русский</a>
 &nbsp;&nbsp;
 </p>
 
