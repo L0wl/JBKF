@@ -8,7 +8,7 @@ A simple and lightweight browser extension that allows you to generate JetBrains
 
 - [x] Dedicated netfilter bindings builder (via script)
 - [x] Netfilter for local license emulation
-- [x] Support up to `2024.x.x` versions and next
+- [x] Support up to `2024.x`, `2025.x` versions
 
 # Installation
 
