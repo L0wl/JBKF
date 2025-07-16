@@ -206,9 +206,3 @@ If you press the button - script will thrown the allert, with state of current t
 
 > [!NOTE]
 > if the plugin is not paid, or not available - you will got a message
-
-# Important
-
-This script is only modification, what allow's you to see multiple actions in selected language
-
-Special thanks to [Novice LI](https://github.com/novice88) for main JetBra extension
